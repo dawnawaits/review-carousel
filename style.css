@@ -34,7 +34,7 @@ img {
 
 .container {
     width: 80vw;
-    height: 70vh;
+    min-height: 70vh;
     padding: 20px;
 
     background: white;
